@@ -1,5 +1,5 @@
 import Link from 'next/link';
-
+//NB: 'Link' is a default export, it is provided by NextJS directly i.e we don't have to install a package like React-Router-Dom
 
 function NewsPage () {
     return <>
